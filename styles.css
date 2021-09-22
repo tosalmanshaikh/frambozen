@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;500&display=swap');
+
+body {
+    background: #DFD9E2;
+}
+
+
+h1 {
+    text-decoration: underline;
+    text-align: center;
+}
+
+h2 {
+    text-transform: uppercase;
+    text-align: center;
+    line-height: 50px;
+    font-weight: lighter;
+    letter-spacing: 20px;
+
+}
+
+.bold_text {
+    font-weight: bold;
+}
+
+
+h1, h2, h3 {
+    color: #865B9A;
+    font-size: 35px;
+    font-family: Poppins, Tahoma, sans-serif;
+    margin-bottom: 10px;
+    font-weight: 500;
+}
+
+
+h3 {
+    font-size: large;
+}
+
+
+p {
+    color: #535865;
+    font-weight: 300;
+    font-family: Poppins, Tahoma, sans-serif;
+
+}
+
+
+.one {
+    list-style: square inside;
+    color: #535865;
+    font-weight: 300;
+    font-family: Poppins, Tahoma, sans-serif;
+
+}
+
+
+button {
+    background-color: #865B9A;
+    width: 120px;
+    height: 30px;
+    color: white;
+    font-size: large;
+
+}
+
+button:hover {
+    background-color: bisque;
+}
+
+
+
